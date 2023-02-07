@@ -1,0 +1,7 @@
+IP:10.106.2.93
+Recipient:Boss12@gmail.com
+Subject:有奧客出現，請求協助
+body_content:在嘉義市南京路
+oke_warning:90
+aut_capture_min:20
+aut_capture_max:80
